@@ -1,28 +1,26 @@
-# bililucky
+# bilibili ViccoVlog 本地抽奖
+---
+#### Desgined by Vicco Vlog
+#### bilibli: @ViccoVlog / Youtube: @viccowang
 
-## Project setup
+## 项目安装
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 首先启动服务端
+请首先啊启动服务器
+```
+npm run bServer
+```
+### 接着启动客户端
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 打包
 ```
 npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
 ```
 
 ### Customize configuration
